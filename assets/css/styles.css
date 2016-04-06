@@ -7,7 +7,9 @@ body {
     margin-top: 10%; }
   body p {
     text-align: center;
-    color: darkgray; }
+    color: darkgray;
+    line-height: 1.5em;
+    }
     body p a {
       text-decoration: none;
       color: darkgray; }
